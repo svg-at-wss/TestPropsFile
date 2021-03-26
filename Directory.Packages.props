@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageVersion Include="NUnit" Version="3.12.0" />
+    <PackageVersion Include="NUnit3TestAdapter" Version="3.17.0" />
+    <PackageVersion Include="NETStandard.Library" Version="2.0.3" />
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="16.8.0" />
+  </ItemGroup>
+</Project>
